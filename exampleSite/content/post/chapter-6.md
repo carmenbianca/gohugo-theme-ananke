@@ -5,6 +5,14 @@ featured_image: "/images/esmeralda.jpg"
 tags: []
 title: "Chapter VI: Esmeralda"
 ---
+
+```
+Because it messes up the order in which people normally read text.
+> Why is top-posting such a bad thing?
+> > Top-posting.
+> > > What is the most annoying thing in e-mail?
+```
+
 We are delighted to be able to inform the reader, that during the whole of
 this scene, Gringoire and his piece had stood firm. His actors, spurred on
 by him, had not ceased to spout his comedy, and he had not ceased to
