@@ -1,0 +1,18 @@
+[all]
+other = "All"
+
+[below-taxonomies]
+other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+
+[more]
+other = "More"
+
+[morePosts]
+one = "1 more post"
+other = "{{ .Count }} more posts"
+
+[recent]
+other = "Recent"
+
+[related]
+other = "Related"
